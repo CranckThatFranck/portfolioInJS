@@ -1,6 +1,6 @@
 {
     "name": "João Francisco de Oliveira Neto",
-    "photo": "./assets/img/profilePic.jpg",
+    "photo": "assets/img/profilePic.jpg",
     "job": "Estudante de Análise e Desenvolvimento de Sistemas",
     "location": "Palhoça - SC",
     "phone": "(11) 99011-6005",
@@ -10,23 +10,23 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "./assets/img/icons/javascript.svg"
+          "logo": "assets/img/icons/javascript.svg"
         },
         {
           "name": "React",
-          "logo": "./assets/img/icons/react.svg"
+          "logo": "assets/img/icons/react.svg"
         },
         {
           "name": "React",
-          "logo": "./assets/img/icons/javascript.svg"
+          "logo": "assets/img/icons/javascript.svg"
         },
         {
           "name": "CSS",
-          "logo": "./assets/img/icons/css.svg"
+          "logo": "assets/img/icons/css.svg"
         },
         {
           "name": "aws",
-          "logo": "./assets/img/icons/aws.svg"
+          "logo": "assets/img/icons/aws.svg"
         }
       ],
       "softSkills": [
