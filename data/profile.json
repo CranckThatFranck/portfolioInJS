@@ -1,0 +1,102 @@
+{
+    "name": "João Francisco de Oliveira Neto",
+    "photo": "./assets/img/profilePic.jpg",
+    "job": "Estudante de Análise e Desenvolvimento de Sistemas",
+    "location": "Palhoça - SC",
+    "phone": "(11) 99011-6005",
+    "email": "franciscooliveira@gmx.com",
+    "linkedin": "in/joaofranciscodeoliveiraneto/",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "JavaScript",
+          "logo": "./assets/img/icons/javascript.svg"
+        },
+        {
+          "name": "React",
+          "logo": "./assets/img/icons/react.svg"
+        },
+        {
+          "name": "React",
+          "logo": "./assets/img/icons/javascript.svg"
+        },
+        {
+          "name": "CSS",
+          "logo": "./assets/img/icons/css.svg"
+        },
+        {
+          "name": "aws",
+          "logo": "./assets/img/icons/aws.svg"
+        }
+      ],
+      "softSkills": [
+        "Liderança",
+        "Trabalho em Equipe",
+        "Facilidade de comunicação",
+        "organização",
+        "Facilidade em novos aprendizados"
+      ]
+    },
+    "languages": [
+      "Português BR (Nativo)",
+      "Inglês (Avançado)",
+      "Espanhol (iniciante)"
+    ],
+    "portfolio": [
+      {
+        "name": "Pokedex - Estudo para consumo de API",
+        "url": "https://github.com/CranckThatFranck/Pokedex-v1",
+        "github": true
+      },
+      {
+        "name": "Curso para a criação de uma página de portfolio",
+        "url": "https://github.com/CranckThatFranck/portfolioInJS",
+        "github": true
+      },
+      {
+        "name": "FlexBox - Recriando tela de login do Instagram",
+        "url": "https://github.com/CranckThatFranck/instagramFlexBox",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "ANALISTA TÉCNICO - Softplan Tecnologia e Sistemas",
+        "period": "01/02/2021 a 11/07/2023",
+        "description": "Suporte técnico para o sistema SAJ(Sistema de Automação da Justiça),
+        para o Tribunal de Justiça do Estado de São Paulo. Realizando análises de
+        chamado que são direcionados para o atendimento via Softplan, Nível 2 de
+        atendimento para o TJ, Nível 1 de atendimento para a Softplan, realizando
+        análise de funcionamento e comportamento do sistema junto com
+        Magistrados, Oficiais e outros funcionários de cartórios responsáveis por
+        processos de 1º Grau, e direcionando para as equipes conforme análise e
+        necessidades do sistema e clientes."
+      },
+      {
+        "name": "ESTÁGIO EM ANÁLISE E DESENVOLVIMENTO DE BANCO
+        DE DADOS – Mobileum",
+        "period": "10/02/2019 a 05/12/2019",
+        "description": "Durante o estágio, participei de desenvolvimento de tabelas utilizando o
+        banco de dados Oracle, para análise de KPI, Revenue Assurance e Business
+        Assurance, junto com configuração de layout no software RAID, para a
+        operadora de telefonia Entel Chile e Peru, junto com as análises de log e
+        depuração, no sistema Red Hat Server, através de acesso via SSH.
+        Durante o período inicial do estágio, foi realizado um extenso período de
+        estudo de sistemas Linux, e de MySQL por terminal (Red Hat Server), e
+        também estudos com o Oracle database."
+      },
+      {
+        "name": "SUPORTE TÉCNICO HELPDESK -  Nextar",
+        "period": "01/06/2017 a 09/02/2019",
+        "description": "Estágio no período de 1 ano como Suporte técnico, realizando suporte para
+        o software NEX e NEXcafé, via LogMeIn e TeamViwer (acesso remoto), e
+        após o período de estágio, sendo 9 meses em CLT, além de prestar
+        suporte, desenvolvendo também os modelos de impressões realizados
+        pelo software NEX (orçamentos, NFC-es, NF-es, comprovantes de vendas,
+        débitos e pedidos) criando versões em inglês e espanhol para estes
+        documentos, com a finalidade de suprir a demanda internacional do
+        sistema, e também responsável pelo atendimento direto dos clientes deste
+        canal via e-mail, telefone e suporte técnico(via chat)."
+      }
+    ]
+  }
