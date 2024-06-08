@@ -34,8 +34,8 @@ a:hover {
     background-image: url('../img/background-top.png');
     background-repeat: no-repeat;
     background-size: contain;
-    width: 220vw;
-    height: 180vw;
+    width: 100rem;
+    height: 100rem;
     display: inline-block;
     position: fixed;
     top: 0;
@@ -70,8 +70,8 @@ a:hover {
         background-image: url('../img/background-top.png');
         background-repeat: no-repeat;
         background-size: contain;
-        width: 80vw;
-        height: 120vw;
+        width: 100rem;
+        height: 100rem;
         display: inline-block;
         position: fixed;
         top: 0;
