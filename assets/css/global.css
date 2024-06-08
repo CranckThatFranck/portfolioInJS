@@ -67,7 +67,7 @@ a:hover {
 
     .main::before {
         content: '';
-        background-image: url('../img/background-top.svg');
+        background-image: url('../img/background-top.png');
         background-repeat: no-repeat;
         background-size: contain;
         width: 80vw;
